@@ -1,0 +1,13 @@
+#macOS
+**/.DS_Store
+*.dSYM
+
+#emacs
+**/*~
+
+#platform specific binaries
+print_mpz
+gmp-chudnovsky
+
+#output files
+compile_commands.json
